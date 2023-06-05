@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.idea/
+solution.py
+*.cfg
+bin/
+lib/
